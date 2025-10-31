@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # Product_info
 =======
 # Lead Scoring Backend API
 
-AI-powered backend service for B2B lead qualification and scoring using rule-based logic combined with AI reasoning (Google Gemini 1.5 Flash).
+AI-powered backend service for B2B lead qualification and scoring using rule-based logic combined with AI reasoning .
 
 ## 🚀 Features
 
@@ -22,15 +22,14 @@ AI-powered backend service for B2B lead qualification and scoring using rule-bas
 - Node.js >= 18.0.0
 - npm or yarn
 - **Google Gemini API key** (get it free from https://aistudio.google.com/apikey)
-- Optional: OpenAI API key (if you want to use OpenAI instead)
 
 ## 🛠️ Installation
 
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd lead-scoring-backend
+git clone https://github.com/renukatondihal754/Product_info.git
+
 ```
 
 ### 2. Install Dependencies
@@ -53,8 +52,7 @@ AI_PROVIDER=gemini
 # Google Gemini Configuration (ACTIVE)
 GEMINI_API_KEY=your_gemini_api_key_here
 
-# OpenAI Configuration (Optional - only needed if using openai provider)
-OPENAI_API_KEY=
+
 ```
 
 **To get a free Gemini API key:**
